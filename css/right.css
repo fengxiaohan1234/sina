@@ -1,0 +1,140 @@
+.main {
+  height: 5000px;
+  width: 660px;
+}
+.right-zwyt {
+  width: 340px;
+  margin-top: 20px;
+  background-color: #f2f2f5;
+}
+.right-zwyt .right-content .right-xxs {
+  padding: 20px;
+  border-top: 1px solid #fa2f2f;
+}
+.right-zwyt .right-content .right-xxs h2 {
+  font-size: 18px;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+.right-zwyt .right-content .right-xxs .right-Box {
+  font-size: 12px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.right-zwyt .right-content .right-xxs .right-Box .right-title {
+  height: 70px;
+  cursor: pointer;
+  display: inline-block;
+}
+.right-zwyt .right-content .right-xxs .right-Box .right-title h3:hover {
+  color: #eb7350;
+}
+.right-zwyt .right-content .right-xxs .right-Box .right-title .right-time {
+  margin-top: 10px;
+}
+.right-zwyt .right-content .right-xxs .right-Box .right-title .right-time span {
+  font-size: 12px;
+  line-height: 12px;
+  color: #808080;
+}
+.right-zwyt .right-content .right-xxs .right-Box .pic {
+  width: 120px;
+  height: 70px;
+  float: right;
+  display: inline-block;
+}
+.right-zwyt .right-content .right-xxs .right-Box .pic img {
+  width: 100%;
+  height: 100%;
+}
+.right-zwyt .right-content .right-foot {
+  width: 100%;
+  height: 33px;
+  line-height: 33px;
+  text-align: center;
+  border-top: 1px solid #d9d9d9;
+}
+.right-zwyt .right-content .right-foot .change1 {
+  color: #333;
+}
+.right-zwyt .right-content .right-foot:hover span {
+  color: #eb7350;
+}
+.right-ztyw .right-content .right-Box {
+  margin: auto;
+  height: 44px;
+}
+.right-ztyw .right-content .right-Box:nth-child(6) {
+  margin-bottom: 0;
+}
+.right-ztyw .right-content .right-Box .pic1 {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin-right: 12px;
+  display: inline-block;
+}
+.right-ztyw .right-content .right-Box .pic1 img {
+  width: 100%;
+  height: 100%;
+}
+.right-ztyw .right-content .right-Box .right-title1 {
+  width: 238px;
+  line-height: 15px;
+  display: inline-block;
+}
+.right-ztyw .right-content .right-Box .right-title1 h3 {
+  font-size: 14px;
+  color: #333;
+}
+.right-ztyw .right-content .right-Box .right-title1 .right-exp {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-top: 5px;
+}
+.right-ztyw .right-content .right-Box .right-title1 .right-exp span {
+  font-size: 12px;
+  line-height: 15px;
+  color: #808080 ;
+}
+.right-wenzi .right-content .right-changeP {
+  padding-bottom: 0;
+}
+.right-wenzi .right-content .right-list {
+  border-bottom: 1px solid #d9d9d9 ;
+  margin-bottom: 20px;
+  color: #808080;
+}
+.right-wenzi .right-content .right-list:nth-child(5) {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.right-wenzi .right-content .right-list h3 {
+  margin-bottom: 16px;
+}
+.right-wenzi .right-content .list-content {
+  overflow: hidden ;
+}
+.right-wenzi .right-content .list-content .right-icon {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 20px;
+}
+.right-wenzi .right-content .list-content .right-icon i {
+  width: 14px;
+  height: 14px;
+  margin-right: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.right-wenzi .right-content .list-content .right-icon i img {
+  width: 100%;
+  height: 100%;
+}
+.right-wenzi .right-content .list-content .right-icon a {
+  color: #333333;
+}
+.right-wenzi .right-content .list-content .right-icon a:hover {
+  color: #eb7350;
+}
